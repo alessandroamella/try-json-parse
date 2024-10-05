@@ -17,8 +17,15 @@
     "customerror"
   ],
   "author": "Alexandru Vladutu <alexandru.vladutu@gmail.com> (http://careers.stackoverflow.com/alessioalex)",
+  "contributors": [
+    {
+      "name": "Alessandro Amella",
+      "url": "https://github.com/alessandroamella" 
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/alessioalex/try-json-parse/issues"
-  }
+  },
+  "types": "index.d.ts"
 }
